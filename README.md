@@ -1,2 +1,3 @@
-# AYD2_LAB_PROYECTO
-GeekStagram
+# GeekStagram
+
+Proyecto del curso de AYD2 - 2do Semestre 2019
